@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.21",
-    "zimjs": "^16.2.4"
+    "zimjs": "^17.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
