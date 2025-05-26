@@ -1,7 +1,7 @@
 {
   "name": "vue-zim-ts",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.21",
-    "zimjs": "^17.3.3"
+    "zimjs": "^18.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",

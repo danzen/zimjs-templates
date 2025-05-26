@@ -1,6 +1,6 @@
 {
   "name": "angular-zim-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -21,7 +21,7 @@
     "rxjs": "~7.8.1",
     "tslib": "^2.6.2",
     "vite": "^5.1.5",
-    "zimjs": "^17.3.3",
+    "zimjs": "^18.0.0",
     "zone.js": "~0.14.4"
   },
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
   "name": "svelte-zim-ts",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -19,6 +19,6 @@
     "vite": "^5.1.5"
   },
   "dependencies": {
-    "zimjs": "^17.3.3"
+    "zimjs": "^18.0.0"
   }
 }
