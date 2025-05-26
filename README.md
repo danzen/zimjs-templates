@@ -89,7 +89,7 @@ npm install -g @angular/cli
       color:light,
       ready: () => {
           // put code here
-          new zim.Circle(50, red).center().drag();
+          new Circle(50, red).center().drag();
       }
     });
   });
@@ -151,7 +151,7 @@ npm install -g @angular/cli
       color:light,
       ready: () => {
           // put code here
-          new zim.Circle(50, red).center().drag();
+          new Circle(50, red).center().drag();
       }
     });
   });
