@@ -19,6 +19,6 @@
     "vite": "^5.1.5"
   },
   "dependencies": {
-    "zimjs": "^18.0.0"
+    "zimjs": "^19.0.0"
   }
 }
