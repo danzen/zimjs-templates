@@ -6,7 +6,7 @@ Useful links:
 - https://zimjs.com 
 - https://www.npmjs.com/package/zimjs
 - https://github.com/danzen/zimjs
-- https://zimjs.slack.com
+- https://forum.zimjs.com
 
 ### Instructions
 
